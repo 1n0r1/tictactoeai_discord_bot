@@ -1,4 +1,4 @@
-# tictactoeai_discord_bot
+# tictactoeAI_discord_bot
 A tic-tac-toe bot that can play tic-tac-toe with you when you have no friend.
 Have 3 difficulty level:
   level 0: purely random moves
