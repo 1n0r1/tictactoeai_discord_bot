@@ -13,3 +13,5 @@ Have 3 difficulty level:
 &move <position: 1 - 9> : move 
 
 &show_board : show the current game again
+
+![] (https://media0.giphy.com/media/MGnTRBV6ALiII5xSL2/giphy.gif)
