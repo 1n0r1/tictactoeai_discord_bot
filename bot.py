@@ -119,11 +119,15 @@ def advance_thinking():
         return random.choice(corner)
     
     if (board[1][1] == "X" or tturn[0] == 3):
+        move_list = []
         for a in non_diag:
             if (attackable(a)):
-                for b in a:
-                    if valid_move(b):
-                        return b
+                move_list.append(a)
+        if (move_list != []):
+            tore = random.choice(random.choice(move_list))
+            while not valid_move(tore):
+                tore = random.choice(random.choice(move_list))
+            return tore
     k = []
     possible_moves = []
     for a in all_line:
