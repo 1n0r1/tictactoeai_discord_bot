@@ -14,4 +14,4 @@ Have 3 difficulty level:
 
 &show_board : show the current game again
 
-![Demo] (https://media0.giphy.com/media/MGnTRBV6ALiII5xSL2/giphy.gif)
+![Demo](https://media0.giphy.com/media/MGnTRBV6ALiII5xSL2/giphy.gif)
